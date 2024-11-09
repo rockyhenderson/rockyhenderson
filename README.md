@@ -6,10 +6,6 @@
 - 🎓 In my second year of an HND in Web Development, preparing for my bachelor's degree and an internship year.
 - 🚀 Seeking an internship for the 2025 academic year!
 
-Certainly! Here’s a table format for **My Portfolio** and **Work Experience** sections:
-
----
-
 ## My Portfolio
 
 | Project                        | Description                                                                                   | Skills Used                              | Link/Repo                     |
