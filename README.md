@@ -9,14 +9,24 @@ Welcome to my GitHub! I'm a web developer with a passion for building efficient,
 - 🎓 In my second year of an HND in Web Development, preparing for my bachelor's degree and an internship year.
 - 🚀 Passionate about clean, functional design and user experience.
 
+Here’s an updated **My Portfolio** section, including your work experience and mentioning that the portfolio is a work in progress:
+
+---
+
 ## My Portfolio
 
-I've crafted my portfolio to demonstrate each core component of my web development expertise:
+I'm currently building my portfolio to showcase each core area of my web development expertise. Here’s what it will include:
 
-- **Projects**: Highlights of my work, with descriptions, technologies used, and links to live demos or repos.
-- **Skills Overview**: A concise display of my technical skills, showing my proficiency in key technologies.
-- **Work Experience**: A snapshot of my relevant work experience and any notable contributions.
-- **Contact & Availability**: Details on how to reach me and my availability for freelance or collaborative work.
+- **Projects**: A collection of my work, featuring descriptions, technologies used, and links to live demos or repos.
+- **Work Experience**: Highlights of my past work in web development:
+  - **Content Migration Specialist**  
+    *Confidential Project for Global Non-profit, Remote*  
+    *July 2023 – October 2024*  
+    - Migrated over 1,000 pages of complex content from WordPress to ButterCMS.
+    - Collaborated with a multi-skilled team to deliver the project on time and under budget.
+    - Assisted in QA, testing the site across multiple browsers and devices.
+  - **Neep**  
+    *(Details coming soon)*
 
 ## Skills
 
@@ -31,4 +41,5 @@ I'm excited to connect with other developers, collaborators, or mentors. I'm als
 
 - [LinkedIn](https://www.linkedin.com/in/jackirhenderson/)
 - [Email](mailto:jack@teamhendo.com)
+  
 Thanks for visiting my profile! ✌️
