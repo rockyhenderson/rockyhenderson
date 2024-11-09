@@ -1,32 +1,20 @@
 # Hi there! I'm Jack 👋
 
-Welcome to my GitHub! I'm a web developer with a passion for building efficient, dynamic websites and applications. Here, you'll find a collection of my projects and current work as I continue to grow in web development. I'm actively seeking a **2025 internship** to apply my skills in a professional setting and gain hands-on experience.
-
 ## About Me
 
 - 🌐 Web Development student focused on full-stack skills and UI Design.
 - 🎓 In my second year of an HND in Web Development, preparing for my bachelor's degree and an internship year.
-- 🚀 Passionate about clean, functional design and user experience.
+- 🚀 Seeking an internship for the 2025 academic year!
+
+Certainly! Here’s a table format for **My Portfolio** and **Work Experience** sections:
+
+---
 
 ## My Portfolio
 
-I'm currently building my portfolio to showcase each core area of my web development expertise. Here’s what it will include:
-
-- **Projects**: A collection of my work, featuring descriptions, technologies used, and links to live demos or repos.
-- **Skills Overview**: A breakdown of my technical skills and proficiency in various technologies.
-- **Contact & Availability**: Information on how to reach me and my availability for freelance or collaborative projects.
-
-## Work Experience
-
-- **Content Migration Specialist**  
-  *Confidential Project for Global Non-profit, Remote*  
-  *July 2023 – October 2024*  
-  - Migrated over 1,000 pages of complex content from WordPress to ButterCMS.
-  - Collaborated with a multi-skilled team to deliver the project on time and under budget.
-  - Assisted in QA, testing the site across multiple browsers and devices.
-
-- **Neep**  
-  *(Details coming soon)*
+| Project                        | Description                                                                                   | Skills Used                              | Link/Repo                     |
+|--------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------|-------------------------------|
+| **Limelight Cinema**           | Interactive movie booking platform for a fictional cinema, improving UX and booking process.  | PHP, SQL, JavaScript, CSS                | [View Repository](https://github.com/rockyhenderson/Limelight-Cinema)          |
 
 ## Skills
 
