@@ -9,10 +9,6 @@ Welcome to my GitHub! I'm a web developer with a passion for building efficient,
 - 🎓 In my second year of an HND in Web Development, preparing for my bachelor's degree and an internship year.
 - 🚀 Passionate about clean, functional design and user experience.
 
-Here’s an updated **My Portfolio** section, including your work experience and mentioning that the portfolio is a work in progress:
-
----
-
 ## My Portfolio
 
 I'm currently building my portfolio to showcase each core area of my web development expertise. Here’s what it will include:
